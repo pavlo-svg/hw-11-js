@@ -58,7 +58,7 @@ const user = {
         }
     }
 };
-user.login("lesivs@gmail.com", 6767);
+user.login("pavlo@gmail.com", 12345);
 
 // Створіть об'єкт "movie" з властивостями "title", "director", "year", "rating". Додайте до об'єкту метод, який повертає "true", якщо рейтинг фільму вище 8, та "false", якщо рейтинг фільму 8 або нижче. Вивести значення властивостей в консоль. 
 const movie = {
